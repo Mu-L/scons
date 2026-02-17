@@ -57,6 +57,9 @@ IMPROVEMENTS
 
 - Switch remaining "original style" docstring parameter listings to Google style.
 
+- Additional small tweaks to Environment.py type hints, fold some overly
+long function signature lines, and some linting-insipired cleanups.
+
 
 PACKAGING
 ---------
