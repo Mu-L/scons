@@ -33,6 +33,7 @@ RELEASE  VERSION/DATE TO BE FILLED IN LATER
     - Add more unit tests for UNC path handling. These tests expose some
       current issues so they are marked expectedFailure. The intent is to
       record this information for some future fix cycle.
+    - Fix the ninja ctrl-c test, which was failing on some platforms.
     - Reference manual improvements:
       * Additional clarification for SideEffect()
 
